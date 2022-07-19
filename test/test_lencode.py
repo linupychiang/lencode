@@ -1,4 +1,4 @@
-from lencode.api import *
+from lencode import *
 
 if __name__ == '__main__':
     content = '你好，世界'
