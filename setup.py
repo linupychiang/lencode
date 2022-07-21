@@ -5,7 +5,7 @@ with open('README.md', 'r', encoding='u8') as fh:
 
 setuptools.setup(
     name='lencode',
-    version='0.1.1',
+    version='0.1.2',
     author='linupy',
     author_email='linupy@163.com',
     description='编码/加密工具包 Encoding/Encryption Toolkit',
